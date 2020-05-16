@@ -11,12 +11,12 @@ There are a number of ways to add data to your map. Your needs will vary dependi
 
 #### Manually adding data
 
-* The simplest way to add data to a Google My Map is to draw it manually. You can draw points lines and polygons onto your map using the draw tools along the top of the page. 
+* The simplest way to add data to a Google My Map is to draw it manually. You can draw points lines and polygons onto your map using the draw tools along the top of the page. <br>
 ![Screenshot of drawing tools](screenshot1.png)
 * The tool highlighted in the picture above allows you to draw lines and polygons, and the tool with the marker icon to its left allows you to add points.
 * When you add a feature, you will be able to save a title for the feature. You can also add a description and attach photos or videos. <br>
-![screenshot of info window](screenshot2.png | width=200)
-* You can organize your features into layers in the menu on the left side of the screen
+![screenshot of info window](screenshot2.png)
+* You can organize your features into layers in the menu on the left side of the screen.<br>
 ![screenshot of layer menu](screenshot3.png)
 
 #### Importing data 
